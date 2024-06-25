@@ -13,6 +13,7 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
 + **Google Icons:** Para iconos personalizadas.
 
 ### Vista Previa del Proyecto
+![Demo](/imagenes/vistaprevia.png)
 
 ### Contacto 
 👩‍🔬🧫Estrella Zamora: [Mi LinkedIn](www.linkedin.com/in/estrella-zamora-beza)
