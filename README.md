@@ -15,6 +15,8 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
 ### Vista Previa del Proyecto
 ![Demo](/imagenes/vistaprevia.png)
 
+🔗: https://pinterestinterfaz-ashen.vercel.app/
+
 ### Contacto 
 👩‍🔬🧫Estrella Zamora: [Mi LinkedIn](www.linkedin.com/in/estrella-zamora-beza)
 
